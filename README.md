@@ -1,0 +1,1 @@
+This code actual works with a local db on my computer named fitness_db, obviously. The only thing I actually changed in the code, after testing it, was database password. Everything else is exactly the same. I hope this works fine.
