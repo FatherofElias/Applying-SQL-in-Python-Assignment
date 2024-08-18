@@ -48,5 +48,4 @@ def input_update_member_age():
     # Update the member's age in the database
     update_member_age(member_id, new_age)
 
-# Example usage
 input_update_member_age()

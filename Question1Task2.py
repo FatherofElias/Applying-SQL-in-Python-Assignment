@@ -45,5 +45,4 @@ def input_new_workout_session():
     # Add the new workout session to the database
     add_workout_session(member_id, session_id, session_date, session_time, activity)
 
-# Example usage
 input_new_workout_session()
