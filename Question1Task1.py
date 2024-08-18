@@ -8,7 +8,7 @@ def add_member(id, name, age):
             host='localhost',
             database='fitness_db',
             user='root',
-            password='Elias928'
+            password='placehold'
         )
         if conn.is_connected():
             cursor = conn.cursor()
